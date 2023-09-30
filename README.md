@@ -1,5 +1,6 @@
 # Jhacks-NextGen-Release
-## 注意：Jhacks-NextGen需要.NET6.0以运行
+# Jhacks-NextGen源代码已开源，本仓库作废  ，[新仓库地址](https://github.com/xiaojiangxj233/Jhacks-NextGen)
+## 注意：Jhacks-NextGen需要.NET6.0以运行 
 ## [Jhacks-NextGen官网](https://jhacks.xiaojiang233.top/)
 Jhacks-NextGen的新版发布仓库<br>
 GETQQ.exe的源码也在这<br>
